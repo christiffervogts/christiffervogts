@@ -1,4 +1,4 @@
-##Hello!
+**Hello!**
 
 My name is Christiffer Vogts, and I'm a Mechanical Engineer and Programmer from Fort Wayne, Indiana. I'm currently a student at Purdue University Fort Wayne, majoring in Mechanical Engineering with minors in Mathematics and German. Right now I'm working on several projects:
 
